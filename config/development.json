@@ -1,0 +1,8 @@
+{
+   "navcoin": {
+       "username": "user",
+       "password": "password",
+       "port": "44444",
+       "ip": "127.0.0.1"
+    }
+}
