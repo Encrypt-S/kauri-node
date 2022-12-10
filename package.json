@@ -32,7 +32,7 @@
     "config": "^3.1.0",
     "cors": "^2.8.5",
     "docusign-esign": "^5.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-jwt": "^5.3.1",
     "fs": "0.0.1-security",
     "html-pdf": "^2.2.0",
